@@ -1,0 +1,7 @@
+{
+  "dependencies": [
+    "detours",
+    "spdlog",
+    "tomlplusplus"
+  ]
+}

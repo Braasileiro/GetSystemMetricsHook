@@ -1,0 +1,8 @@
+# Parameters and descriptions can be found here
+# https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-getsystemmetrics#parameters
+# To remove a configuration, simply delete the entry or comment with "#"
+# The configuration format is PARAM_NAME=value
+
+# Sets the desktop resolution of the main monitor that is returned to the application
+SM_CXSCREEN=1920
+SM_CYSCREEN=1080
